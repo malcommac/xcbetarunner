@@ -1,4 +1,4 @@
-<p align="left" >
+<p align="center" >
 <img src="logo.png" width=368px alt="SwiftDate" title="SwiftDate">
 </p>
 
