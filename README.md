@@ -1,5 +1,12 @@
-# xcbetarunner
+<p align="left" >
+<img src="logo.png" width=368px alt="SwiftDate" title="SwiftDate">
+</p>
+
 **Debug & Test your app on iOS's beta device using stable Xcode version**
+
+<p align="center" >★★ <b>Star me to follow the project! </b> ★★<br>
+Created and maintaned by <b>Daniele Margutti</b> - <a href="http://www.danielemargutti.com">www.danielemargutti.com</a>
+</p>
 
 ## What's xcbetarunner?
 xcbetarunner is a really simple command line utility which allows you to deploy and test your application using stable XCode version inside a device where you have installed an iOS Beta or Pre-Release version.
